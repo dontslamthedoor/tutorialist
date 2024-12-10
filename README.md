@@ -8,7 +8,7 @@
 <h2>
   Go
 </h2>
-<p> <b>awesome-go.com</b> is the mac daddy of go tutorial indexes. </p>
+<p> <b>awesome-go.com</b> is the mac daddy of go tutorial sites. </p>
 <p>https://awesome-go.com/</p>
 <p>https://mailtrap.io/blog/golang-send-email/</p>
 <p>https://zetcode.com/golang/email-smtp/</p>
